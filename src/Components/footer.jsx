@@ -3,8 +3,8 @@
             return (
         <>
          <footer>
- <p>&copy; Event Planner Organization. All rights reserved.</p>
- </footer>
+             <p>&copy; Event Planner Organization. All rights reserved.</p>
+        </footer>      
         </>
     )}
 
